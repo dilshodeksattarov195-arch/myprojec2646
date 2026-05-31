@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvtringify",
+        "uuid": 8456616,
+        "checksum": "9egjc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
